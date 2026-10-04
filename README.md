@@ -1,0 +1,1 @@
+An end-to-end Machine Learning project automating loan approvals via Python, VS Code, and Colab migration. Features comprehensive EDA with Matplotlib/Seaborn, data preprocessing, and comparative evaluation of Logistic Regression, KNN, and Naive Bayes models to predict credit risk accurately using financial applicant data.
